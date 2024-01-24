@@ -45,7 +45,7 @@ public class ShoppingCartDAORepository implements ShoppingCartDAO {
 
     }
 }
-
+/*
 public class ShoppingCartDAORepository implements ShoppingCartDAO {
     private static final ShoppingCartDAORepository INSTANCE = new ShoppingCartDAORepository();
     private Connection connection;
@@ -151,4 +151,4 @@ public class ShoppingCartDAORepository implements ShoppingCartDAO {
         return cart;
     }
 }
-
+*/
