@@ -66,3 +66,17 @@ w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
 w
 G.idea/sonarlint/issuestore/b/e/beb666e38278a04b5cf5b6b8753932ad8eeffd6a,e\7\e7317df210284d5a114657dfe8130b176be6250a
+g
+7src/main/java/org/lexicon/data/ShoppingCartItemDAO.java,6\1\61454177b1c9800513ccb605fa62001ccd3f15c2
+q
+Asrc/main/java/org/lexicon/data/ShoppingCartItemDAORepository.java,8\4\849d1037b1f1e90dc8f209ca2ae6fb054c5aa19e
+`
+0src/main/java/org/lexicon/models/ProductDAO.java,0\5\0553e3f0ee134ce844394578dbbb34d6608991ab
+b
+2src/main/java/org/lexicon/data/ConnectionJDBC.java,c\1\c104328c81a6813a77df629427cc620de977c96b
+m
+=src/main/java/org/lexicon/data/ShoppingCartDAORepository.java,f\b\fbe31c964d827dc5808e00ed534da625ff6c4726
+^
+.src/main/java/org/lexicon/data/ProductDAO.java,7\c\7c395f7d76b4e073d943985cf60547bf90335011
+h
+8src/main/java/org/lexicon/data/ProductDAORepository.java,6\e\6e174042881cbf00b89f7ba753fa160c4eca7b32
