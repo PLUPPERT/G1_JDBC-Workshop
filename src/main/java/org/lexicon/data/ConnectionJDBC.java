@@ -9,7 +9,7 @@ public class ConnectionJDBC {
     private static final String JDBC_USERNAME = "root";
     private static final String JDBC_PASSWORD = "root1234";
 
-    public static java.sql.Connection getConnection() {
+    public static Connection getConnection() {
         Connection connection = null;
         try {
             connection = DriverManager.getConnection(
